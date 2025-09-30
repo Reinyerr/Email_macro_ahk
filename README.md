@@ -13,12 +13,17 @@ Formatting Control: Adds bold emphasis for key information like rough quote, cut
 **Quick Script Management: Press F2 to safely close the script at any time.**
 
 ## 🔑 Example Hotstrings
-Hotstring	Description
+Hotstring	Description:
 s1gn	Inserts a professional sign-off email with today’s date.
+
 q36s	Generates a quote email for 36” standard picket railings.
+
 q36g	Generates a quote email for 36” glass railings.
+
 q42s	Generates a quote email for 42” standard picket railings.
+
 q42g	Generates a quote email for 42” glass railings.
+
 s1at	Creates an order status update email with pickup/payment info.
 
 ## 🚀 How to Use
