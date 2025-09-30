@@ -29,7 +29,7 @@ s1at	Creates an order status update email with pickup/payment info.
 4. Open any text editor, email client, or word processor and type one of the hotstring triggers.
 5. The script will automatically expand it into the full email template.
 
-##🛑 Closing the Script
+**🛑 Closing the Script**
 Press F2 to close the script safely.
 
 ## 📌 Notes
