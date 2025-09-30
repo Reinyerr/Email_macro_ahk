@@ -4,27 +4,34 @@ This project is an AutoHotkey v2 script designed to make email writing faster, e
 
 ## ✨ Features
 Hotstrings (Text Expansion): Type short triggers (e.g., s1gn, q36s) to automatically expand into full, pre-written email templates.
+
 Dynamic Date Insertion: Automatically formats the current date in certain templates.
+
 Pre-Built Email Templates: Includes ready-to-use emails for:
+
 Customer sign-off messages with dates
+
 Quotation requests for different railing types (36”/42”, picket/glass)
+
 Order status updates with pickup/payment instructions
+
 Formatting Control: Adds bold emphasis for key information like rough quote, cutting measurements, deposit requirements, and pickup hours.
+
 **Quick Script Management: Press F2 to safely close the script at any time.**
 
 ## 🔑 Example Hotstrings
 Hotstring	Description:
-s1gn	Inserts a professional sign-off email with today’s date.
+s1gn - Inserts a professional sign-off email with today’s date.
 
-q36s	Generates a quote email for 36” standard picket railings.
+q36s - Generates a quote email for 36” standard picket railings.
 
-q36g	Generates a quote email for 36” glass railings.
+q36g - Generates a quote email for 36” glass railings.
 
-q42s	Generates a quote email for 42” standard picket railings.
+q42s - Generates a quote email for 42” standard picket railings.
 
-q42g	Generates a quote email for 42” glass railings.
+q42g - Generates a quote email for 42” glass railings.
 
-s1at	Creates an order status update email with pickup/payment info.
+s1at - Creates an order status update email with pickup/payment info.
 
 ## 🚀 How to Use
 
