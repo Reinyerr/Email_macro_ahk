@@ -23,7 +23,7 @@ s1at	Creates an order status update email with pickup/payment info.
 
 ## 🚀 How to Use
 
-1. Install AutoHotkey v2.
+1. Install AutoHotkey v2. (https://www.autohotkey.com/)
 2. Download or clone this repository.
 3. Run the script (.ahk file).
 4. Open any text editor, email client, or word processor and type one of the hotstring triggers.
