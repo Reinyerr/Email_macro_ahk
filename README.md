@@ -3,19 +3,15 @@
 This project is an AutoHotkey v2 script designed to make email writing faster, easier, and more consistent. It was originally created to help my parents quickly generate professional emails without manually retyping repetitive content.
 
 ## ✨ Features
-Hotstrings (Text Expansion): Type short triggers (e.g., s1gn, q36s) to automatically expand into full, pre-written email templates.
+**Hotstrings (Text Expansion)**: Type short triggers (e.g., s1gn, q36s) to automatically expand into full, pre-written email templates.
 
-Dynamic Date Insertion: Automatically formats the current date in certain templates.
-
+**Dynamic Date Insertion**: Automatically formats the current date in certain templates.
 Pre-Built Email Templates: Includes ready-to-use emails for:
-
 Customer sign-off messages with dates
-
 Quotation requests for different railing types (36”/42”, picket/glass)
-
 Order status updates with pickup/payment instructions
 
-Formatting Control: Adds bold emphasis for key information like rough quote, cutting measurements, deposit requirements, and pickup hours.
+**Formatting Control**: Adds bold emphasis for key information like rough quote, cutting measurements, deposit requirements, and pickup hours.
 
 **Quick Script Management: Press F2 to safely close the script at any time.**
 
