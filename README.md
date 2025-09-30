@@ -42,4 +42,4 @@ Press F2 to close the script safely.
 
 ## 📌 Notes
 The templates can be fully customized for different recipients, products, or business requirements.
-Bold formatting uses Ctrl + B keystrokes and Italic Strokes Ctrl + I, so make sure your email client supports it.
+Bold formatting uses Ctrl + B keystrokes, Underline formatting Ctrl + U, and Italic formatting Ctrl + I, so make sure your email client supports it.
